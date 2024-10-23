@@ -15,7 +15,7 @@ Aplicaciones de Inteligencia Artificial
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en un solucionador de Sudoku que utiliza la heurística de mínimos valores restantes para resolver tableros de Sudoku. La clase `SudokuSolver` implementa el algoritmo de backtracking y la heurística para encontrar las celdas más fáciles de completar, lo que simplifica el proceso de resolución.
+Este proyecto consiste en un solucionador de Sudoku utilizando una heurística. La clase `SudokuSolver` implementa el algoritmo de backtracking y la heurística para encontrar las celdas más fáciles de completar, lo que simplifica el proceso de resolución.
 
 ### Requisitos
 
