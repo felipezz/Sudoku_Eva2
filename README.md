@@ -12,6 +12,7 @@ Aplicaciones de Inteligencia Artificial
 
 - Felipe Loncomilla
 - Jonatan Reyes
+- Sebastián Bascur
 
 ## Descripción del Proyecto
 
