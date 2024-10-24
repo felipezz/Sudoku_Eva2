@@ -14,11 +14,10 @@ Aplicaciones de Inteligencia Artificial
 - Jonatan Reyes
 - Sebastián Bascur
 
-## Descripción del Proyecto
+## Descripción
 
-Este proyecto consiste en un solucionador de Sudoku utilizando una heurística. La clase `SudokuSolver` implementa el algoritmo de backtracking y la heurística para encontrar las celdas más fáciles de completar, lo que simplifica el proceso de resolución.
+Este proyecto consiste en un solucionador de Sudoku utilizando una heurística. La clase `SudokuSolver` usa la heurística de buscar la celda con menos opciones y luego prueba los posibles valores 1 a 1 usando una función recursiva.
 
 ### Requisitos
 
-- Python 3.x
 - Numpy
